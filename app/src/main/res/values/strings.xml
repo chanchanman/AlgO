@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlgO(n)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="line">------------------------------------------------------------------------------------------</string>
+    <string name="sharing_text">Your sharing text goes here…</string>
+    <string name="share_title">Share Screenshot</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-9373804255238774/5598698043</string>
+</resources>
